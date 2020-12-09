@@ -1,0 +1,15 @@
+C:\Users\MattPC\Desktop\InternProgStuff\InternTests\EncodeString\EncodeString\EncodeString\bin\Debug\netcoreapp3.1\EncodeString.exe
+C:\Users\MattPC\Desktop\InternProgStuff\InternTests\EncodeString\EncodeString\EncodeString\bin\Debug\netcoreapp3.1\EncodeString.deps.json
+C:\Users\MattPC\Desktop\InternProgStuff\InternTests\EncodeString\EncodeString\EncodeString\bin\Debug\netcoreapp3.1\EncodeString.runtimeconfig.json
+C:\Users\MattPC\Desktop\InternProgStuff\InternTests\EncodeString\EncodeString\EncodeString\bin\Debug\netcoreapp3.1\EncodeString.runtimeconfig.dev.json
+C:\Users\MattPC\Desktop\InternProgStuff\InternTests\EncodeString\EncodeString\EncodeString\bin\Debug\netcoreapp3.1\EncodeString.dll
+C:\Users\MattPC\Desktop\InternProgStuff\InternTests\EncodeString\EncodeString\EncodeString\bin\Debug\netcoreapp3.1\EncodeString.pdb
+C:\Users\MattPC\Desktop\InternProgStuff\InternTests\EncodeString\EncodeString\EncodeString\obj\Debug\netcoreapp3.1\EncodeString.csprojAssemblyReference.cache
+C:\Users\MattPC\Desktop\InternProgStuff\InternTests\EncodeString\EncodeString\EncodeString\obj\Debug\netcoreapp3.1\EncodeString.Form1.resources
+C:\Users\MattPC\Desktop\InternProgStuff\InternTests\EncodeString\EncodeString\EncodeString\obj\Debug\netcoreapp3.1\EncodeString.csproj.GenerateResource.cache
+C:\Users\MattPC\Desktop\InternProgStuff\InternTests\EncodeString\EncodeString\EncodeString\obj\Debug\netcoreapp3.1\EncodeString.AssemblyInfoInputs.cache
+C:\Users\MattPC\Desktop\InternProgStuff\InternTests\EncodeString\EncodeString\EncodeString\obj\Debug\netcoreapp3.1\EncodeString.AssemblyInfo.cs
+C:\Users\MattPC\Desktop\InternProgStuff\InternTests\EncodeString\EncodeString\EncodeString\obj\Debug\netcoreapp3.1\EncodeString.csproj.CoreCompileInputs.cache
+C:\Users\MattPC\Desktop\InternProgStuff\InternTests\EncodeString\EncodeString\EncodeString\obj\Debug\netcoreapp3.1\EncodeString.dll
+C:\Users\MattPC\Desktop\InternProgStuff\InternTests\EncodeString\EncodeString\EncodeString\obj\Debug\netcoreapp3.1\EncodeString.pdb
+C:\Users\MattPC\Desktop\InternProgStuff\InternTests\EncodeString\EncodeString\EncodeString\obj\Debug\netcoreapp3.1\EncodeString.genruntimeconfig.cache
